@@ -9,9 +9,7 @@ export default function Home() {
         <title>Dyna2games</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <script>
-        document.getElementById("demo").innerHTML = "My First JavaScript";
-      </script>
+
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
