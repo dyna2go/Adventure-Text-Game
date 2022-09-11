@@ -8,10 +8,10 @@ export default function Home() {
       <Head>
         <title>Dyna2games</title>
         <link rel="icon" href="/favicon.ico" />
-        
+
         <script>
         let d = new Date();
-        alert("Today's date is " + d);
+        
        </script>
       </Head>
 
